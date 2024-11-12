@@ -23,6 +23,7 @@ void initialize_list(list* l)
 // 先頭にデータを追加
 void push_front(list* l, node* p)
 {
+	p-> 
 }
 
 // 末尾にデータを追加
